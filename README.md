@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+I am good at learning lol
+i like tacos
+
